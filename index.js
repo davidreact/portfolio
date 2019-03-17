@@ -13,7 +13,8 @@ import { basename } from 'path';
 ReactDOM.render(
   <HashRouter 
   // history={history} 
-  basename='/portfolio'>
+  // basename='/'
+  >
     <Switch>
       <Route exact path='/' render={() => <Header><App /></Header>} />
       <Route path='/jokes' render={() => <Header><Jokes /></Header>} />
