@@ -120,7 +120,7 @@ module.exports="/portfolio/Pomodoro Clock.545cc953.png";
 },{}],"07j2":[function(require,module,exports) {
 module.exports="/portfolio/Reminder Pro.90c3ed06.png";
 },{}],"+dRz":[function(require,module,exports) {
-module.exports="/portfolio/firebase auth.312b794c.png";
+module.exports="/portfolio/firebase auth.576f36f7.png";
 },{}],"Jj1k":[function(require,module,exports) {
 module.exports="/portfolio/stockprice app.65dea7c3.png";
 },{}],"Zf+q":[function(require,module,exports) {
