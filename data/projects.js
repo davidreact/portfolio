@@ -9,7 +9,7 @@ const PROJECTS = [
   {
     id: 5,
     title: 'Firebase Auth',
-    description: 'A React App using firebase to authenticate users and show them secured pages. Go example of using Routes and authentication together.',
+    description: 'A React App using firebase to authenticate users and show them secured pages. A good exercise to learn about Routes and authentication together.',
     link: 'https://davidreact.github.io/firebaseauth/',
     image: project5
   },
