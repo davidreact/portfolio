@@ -16,8 +16,8 @@ const PROJECTS = [
   {
     id: 6,
     title: 'Stock Price App',
-    description: 'A React App using recharts.js and an API to get stock prizes for the last 20 days and display them on a chart. Good example on how to handle asnyc fetch requests and display them on a chart. The API allows only 5 request per minute for free.',
-    link: 'https://davidreact.github.io/firebaseauth/',
+    description: 'A React App using recharts.js and an API to get stock prices for the last 20 days and display them on a chart. Good example on how to handle asnyc fetch requests and display them on a chart. The API allows only 5 request per minute for free.',
+    link: 'https://davidreact.github.io/stockprice/',
     image: project6
   },
   {
