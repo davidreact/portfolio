@@ -17,7 +17,7 @@ const Project = props => {
           }}>
             <img src={image} 
                 alt="profile" 
-                style={{width: 250, 
+                style={{width: 300, 
                 height: 250}}/>
           </div>
           <p>{description}</p>
